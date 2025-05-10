@@ -1,0 +1,89 @@
+[
+  { "name": "tic tac toe", "category": "Games", "difficulty": "Medium" },
+  { "name": "stepper", "category": "UI Components", "difficulty": "Medium" },
+  { "name": "star rating", "category": "UI Components", "difficulty": "Easy" },
+  {
+    "name": "string transformation",
+    "category": "Logic-Based",
+    "difficulty": "Hard"
+  },
+  { "name": "accordion", "category": "UI Components", "difficulty": "Easy" },
+  {
+    "name": "image gallery",
+    "category": "UI Components",
+    "difficulty": "Medium"
+  },
+  { "name": "guess the number", "category": "Games", "difficulty": "Easy" },
+  {
+    "name": "telephone number formatter",
+    "category": "Forms",
+    "difficulty": "Medium"
+  },
+  { "name": "calculator", "category": "Forms", "difficulty": "Medium" },
+  { "name": "toast popup", "category": "UI Components", "difficulty": "Easy" },
+  { "name": "modal", "category": "UI Components", "difficulty": "Easy" },
+  {
+    "name": "traffic light",
+    "category": "UI Components",
+    "difficulty": "Medium"
+  },
+  { "name": "password strength", "category": "Forms", "difficulty": "Medium" },
+  { "name": "stopwatch", "category": "Timers", "difficulty": "Medium" },
+  { "name": "todo", "category": "Forms", "difficulty": "Easy" },
+  { "name": "chess board", "category": "Board Games", "difficulty": "Hard" },
+  { "name": "transfer list", "category": "Forms", "difficulty": "Medium" },
+  {
+    "name": "grid lights",
+    "category": "UI Components",
+    "difficulty": "Medium"
+  },
+  { "name": "quiz app", "category": "Games", "difficulty": "Medium" },
+  { "name": "column table", "category": "Data Table", "difficulty": "Medium" },
+  { "name": "match pair", "category": "Games", "difficulty": "Medium" },
+  { "name": "advanced counter", "category": "Forms", "difficulty": "Medium" },
+  {
+    "name": "infinite scroller online",
+    "category": "Effects / API",
+    "difficulty": "Hard"
+  },
+  { "name": "chip input", "category": "Forms", "difficulty": "Hard" },
+  { "name": "nested checkbox", "category": "Forms", "difficulty": "Medium" },
+  { "name": "nested comments", "category": "Forms", "difficulty": "Hard" },
+  { "name": "word connect", "category": "Games", "difficulty": "Hard" },
+  { "name": "otp", "category": "Forms", "difficulty": "Medium" },
+  {
+    "name": "file explorer",
+    "category": "UI Components",
+    "difficulty": "Hard"
+  },
+  {
+    "name": "typeahead (online)",
+    "category": "API Search",
+    "difficulty": "Hard"
+  },
+  { "name": "typeahead (offline)", "category": "Search", "difficulty": "Hard" },
+  { "name": "api", "category": "Integration", "difficulty": "Medium" },
+  { "name": "timeout", "category": "Timers", "difficulty": "Medium" },
+  { "name": "carousel", "category": "UI Components", "difficulty": "Medium" },
+  {
+    "name": "drag and drop board",
+    "category": "UI Components",
+    "difficulty": "Hard"
+  },
+  { "name": "json form builder", "category": "Forms", "difficulty": "Hard" },
+  {
+    "name": "sort visualizer",
+    "category": "Visualization",
+    "difficulty": "Hard"
+  },
+  {
+    "name": "weather widget",
+    "category": "API Integration",
+    "difficulty": "Medium"
+  },
+  {
+    "name": "file upload with preview",
+    "category": "Forms",
+    "difficulty": "Medium"
+  }
+]
